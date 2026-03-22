@@ -46,8 +46,7 @@ No build tools, no dependencies, no installation required.
 
 ---
 
-## How to Run
-**Live (GitHub Pages):**  
+## Live Hosted Portfolio
  🌐 Visit → https://rishwanth1537.github.io/portfolio/
 
 ---
